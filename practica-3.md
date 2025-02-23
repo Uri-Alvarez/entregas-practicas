@@ -43,3 +43,6 @@ JavaScript ha crecido en popularidad y se ha apoderado del backend en los últim
 Los frameworks van y vienen, pero lo que ha sido constante son los conceptos tomados del patrón de arquitectura MVC.
 
 Algunos de los primeros frameworks que aplicaron estos conceptos fueron **KnockoutJS**, **Django** y **Ruby on Rails**.
+
+Fuentes:
+Hernandez, R. D. (2021, 28 junio). El patrón modelo-vista-controlador:  Arquitectura y frameworks explicados. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/el-modelo-de-arquitectura-view-controller-pattern/
