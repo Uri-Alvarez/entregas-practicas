@@ -10,4 +10,4 @@
 - [Práctica 3](practica-3.md)
 - [Práctica 4](https://uri-alvarez.github.io/entregas-practicas/cv-web/index.html)
 - [Práctica 5](/docs/cv-web/styles.css)
-- [Práctica 6](https://uri-alvarez.github.io/entregas-pruebas/cv-web-v2/index.html)
+- [Práctica 6](https://uri-alvarez.github.io/entregas-practicas/cv-web-v2/index.html)
