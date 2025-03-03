@@ -1,0 +1,137 @@
+/* 1. Define un tamaño de letra al html de 100% y al body de 1rem */
+html {
+    font-size: 100%;
+}
+
+body {
+    font-size: 1rem;
+}
+
+/* 2. Define para todos los elementos la propiedad box-sizing con el valor de border-box */
+* {
+    box-sizing: border-box;
+}
+
+/* 3. Define una familia de fuente de Google Fonts a la etiqueta body */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* 4. Define un color de letra y un color de fondo a la etiqueta body */
+body {
+    color: #333;
+    background-color: #a3f1f0;
+}
+
+/* 5. Define un color de letra a los enlaces */
+a {
+    color: #0066cc;
+}
+
+/* 6. Define un color de letra en el estado hover a los enlaces */
+a {
+    color: rgb(3, 8, 129);
+}
+
+a:hover {
+    color: darkgreen;
+}
+
+/* 7. Aplica la propiedad max-width:100%; a la etiqueta img para que se vuelvan responsivas */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* 8. Variables globales */
+:root {
+    --primary-color: #0098f7;
+    --secondary-color: #ff6600;
+    --text-color: #333;
+}
+
+/* Uso de variables */
+header, footer {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+body {
+    color: var(--text-color);
+}
+
+/* 9. Selectores de identificador */
+#inicio {
+    background-color: rgb(72, 115, 244);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#acerca {
+    background-color: #e8f5ff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#contacto {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* 10. Selectores de clases */
+.proyecto {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+.perfil-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.contacto-link {
+    font-weight: bold;
+}
+
+/* 11. Selectores descendientes */
+section p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+/* 12. Selectores de grupo */
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 0.5rem;
+}
+
+ul, ol, li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+header, footer, main {
+    padding: 1rem;
+}
