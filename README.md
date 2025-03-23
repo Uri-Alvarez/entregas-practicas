@@ -13,3 +13,4 @@
 - [Práctica 6](https://uri-alvarez.github.io/entregas-practicas/cv-web-v2/index.html)
 - [Práctica 7](https://uri-alvarez.github.io/entregas-practicas/practica-7/index.html)
 - [Práctica 8](https://uri-alvarez.github.io/entregas-practicas/practica-8/index.html)
+- [Práctica 9](https://uri-alvarez.github.io/entregas-practicas/practica-9/index.html)
