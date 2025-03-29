@@ -1,0 +1,60 @@
+/* Estilos generales del cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    margin: 0; /* Elimina los márgenes predeterminados */
+    padding: 0; /* Elimina el relleno predeterminado */
+    background-color: #f5f5f5; /* Color de fondo gris claro */
+    text-align: center; /* Alinea el texto al centro */
+}
+
+/* Estilos para el encabezado */
+header {
+    background: #00ffdd; /* Color de fondo */
+    color: rgb(0, 0, 0); /* Color de texto */
+    padding: 10px; /* Espaciado interno */
+    font-size: 1.5rem; /* Tamaño de fuente grande */
+}
+
+/* Estilos para la sección principal */
+main {
+    display: flex; /* Usa flexbox para distribución */
+    justify-content: space-around; /* Distribuye los elementos de manera uniforme */
+    padding: 20px; /* Espaciado interno */
+}
+
+/* Estilos para cada sección dentro del main */
+section {
+    width: 45%; /* Ocupa casi la mitad del ancho disponible */
+    background: white; /* Fondo blanco */
+    padding: 15px; /* Espaciado interno */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+/* Estilos generales para los botones */
+button {
+    padding: 10px 15px; /* Espaciado interno */
+    border: none; /* Sin bordes */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    font-size: 1rem; /* Tamaño de fuente estándar */
+    border-radius: 5px; /* Bordes redondeados */
+    margin: 5px; /* Margen alrededor */
+}
+
+/* Estilo específico para el botón de agregar */
+.agregar {
+    background: #28a745; /* Color verde */
+    color: white; /* Texto en blanco */
+}
+
+/* Estilo específico para el botón de eliminar */
+.eliminar {
+    background: #dc3545; /* Color rojo */
+    color: white; /* Texto en blanco */
+}
+
+/* Estilo específico para el botón de procesar compra */
+#pagar {
+    background: #ffc107; /* Color amarillo */
+    color: black; /* Texto en negro */
+}
