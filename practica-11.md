@@ -23,11 +23,8 @@ Cuenta con una parte pública (rutinas destacadas, plantillas, recursos) y una p
 
 ## c. Moodboard del Diseño de la UI
 
-🖼️ Moodboard generado con estilos visuales inspirados en apps como Notion, Calm y Todoist:  
-Colores suaves, tipografía moderna, íconos amigables, diseño limpio y responsivo.
 
-![Moodboard UI de Habituum](App1.png)  
-(Ejemplo referencial: puedes reemplazar este link con la imagen generada)
+![Moodboard UI de Habituum](/Imagenes/App1.png)  
 
 ---
 
@@ -63,5 +60,4 @@ Colores suaves, tipografía moderna, íconos amigables, diseño limpio y respons
 
 🧩 Diagrama de flujo del funcionamiento general de Habituum:
 
-![Diagrama de Flujo](App2.png)  
-(Ejemplo referencial: reemplazar con el diagrama generado en draw.io, Figma o Canva)
+![Diagrama de Flujo](/Imagenes/App2.png)  
