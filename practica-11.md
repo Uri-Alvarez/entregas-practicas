@@ -13,7 +13,6 @@ Habituum es una aplicación web que permite a los usuarios crear, seguir y compa
 
 - Registro de hábitos personalizados.
 - Seguimiento diario y semanal del progreso.
-- Subida de archivos (imágenes, PDFs, notas) como evidencia o material complementario.
 - Posibilidad de hacer públicas tus rutinas para inspirar a otros.
 - Exploración de rutinas populares de la comunidad.
 
