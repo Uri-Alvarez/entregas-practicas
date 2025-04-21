@@ -16,3 +16,4 @@
 - [Práctica 9](https://uri-alvarez.github.io/entregas-practicas/practica-9/index.html)
 - [Práctica 10](https://uri-alvarez.github.io/entregas-practicas/practica-10/index.html)
 - [Práctica 11](practica-11.md)
+- [Práctica 12](modelado-app.md)
